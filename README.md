@@ -4,4 +4,4 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Sitenin Live'ına buradan ulaşabilirsiniz : https://metinyegencik.github.io/four-card-feature-section-master/
